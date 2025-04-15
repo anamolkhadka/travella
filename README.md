@@ -9,7 +9,7 @@
 This public repository serves as a central hub for the Travella project. The full application is divided into two parts:
 
 - 🔙 **Backend Repo:** [Travella Backend](https://github.com/anamolkhadka/travella_backend)
-- 🔜 **Frontend Repo:** [Travella Frontend](https://github.com/anamolkhadka/travella_frontend)
+- 🔜 **Frontend Repo:** [Travella Frontend](https://github.com/anamolkhadka/travella-frontend)
 
 ---
 
